@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1482959443 source:c:\users\satoshi nakamoto\desktop\switcher\main.cpp
+	<iostream>
+	<fstream>
+	<dirent.h>
+	<stdio.h>
+	<string>
+	<vector>
+	<sys/stat.h>
+
